@@ -1,40 +1,35 @@
-name: Deploy Hugo site to GitHub Pages
+name: deploy
 
 on:
-  push:
-    branches:
-      - main  # This is your source branch
+    push:
+    workflow_dispatch:
+    schedule:
+        # Runs everyday at 8:00 AM
+        - cron: "0 0 * * *"
 
 jobs:
-  build-deploy:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write  # This is required for the gh-pages branch
+    build:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout
+              uses: actions/checkout@v2
+              with:
+                  submodules: true
+                  fetch-depth: 0
 
-    steps:
-    - name: Checkout code
-      uses: actions/checkout@v3
-      with:
-        submodules: recursive  # Fetch Hugo themes
-        fetch-depth: 0
+            - name: Setup Hugo
+              uses: peaceiris/actions-hugo@v2
+              with:
+                  hugo-version: "latest"
 
-    - name: Setup Hugo
-      uses: peaceiris/actions-hugo@v2
-      with:
-        hugo-version: '0.146.0'  # Updated to match theme requirements
-        extended: true
+            - name: Build Web
+              run: hugo
 
-    - name: Build Hugo site
-      run: |
-        hugo mod get -u ./...
-        hugo --minify --gc
-
-    - name: Deploy to GitHub Pages
-      uses: peaceiris/actions-gh-pages@v3
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./public
-        publish_branch: gh-pages
-        force_orphan: true  # This ensures a clean deployment
-        commit_message: "Deploy Hugo site to GitHub Pages"
-
+            - name: Deploy Web
+              uses: peaceiris/actions-gh-pages@v3
+              with:
+                  PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+                  EXTERNAL_REPOSITORY: pseudoyu/pseudoyu.github.io
+                  PUBLISH_BRANCH: master
+                  PUBLISH_DIR: ./public
+                  commit_message: ${{ github.event.head_commit.message }}
