@@ -1,0 +1,22 @@
+{
+  "name": "myblog",
+  "version": "1.0.0",
+  "description": "My Hugo Blog",
+  "dependencies": {
+    "bootstrap": "^5.3.0",
+    "@fortawesome/fontawesome-free": "^6.4.0",
+    "feather-icons": "^4.29.0",
+    "mermaid": "^10.6.0",
+    "katex": "^0.16.8",
+    "highlight.js": "^11.8.0",
+    "plyr": "^3.7.8",
+    "ityped": "^1.0.3",
+    "imagesloaded": "^5.0.0",
+    "fuse.js": "^7.0.0",
+    "mark.js": "^8.11.1",
+    "filterizr": "^2.2.4",
+    "include-media": "^1.4.10",
+    "@fontsource/mulish": "^5.0.0",
+    "popper.js": "^1.16.1"
+  }
+} 

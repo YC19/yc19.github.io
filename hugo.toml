@@ -1,0 +1,4 @@
+baseURL = 'https://yc19.github.io/'
+languageCode = 'en-us'
+title = 'Yichen Tao'
+theme = 'toha'
