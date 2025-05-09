@@ -1,0 +1,21 @@
+# some information about you
+name: "Yichen Tao"
+nickname: "Yichen"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+image: "images/author/Yichen_Tao.jpeg"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "yichen.tao@wisc.edu"
+  # phone: "+0123456789"
+  github: yc19
+  linkedin: yichen-t-b248911b3
+  researchgate: yichen_tao4
+
+# some summary about what you do
+summary:
+  - I am a student
+  - I work on hydrology
+  - I love to work with fun projects
+  - My MBTI is INFP
+  - Samoyed dog is my favorite
