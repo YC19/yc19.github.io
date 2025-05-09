@@ -4,6 +4,11 @@ title: "Yichen Tao"
 theme: "toha"
 defaultContentLanguage: "en"
 
+# Use Hugo modules to add theme
+module:
+  imports:
+  - path: toha/
+
 params:
   footer:
     newsletter:
@@ -18,3 +23,103 @@ params:
     github: "yc19"
     linkedin: "yichen-tao"
     email: "yichen.tao@wisc.edu"
+
+  post:
+    showHero: true
+
+
+  background: /images/site/background.jpg
+
+  logo:
+      favicon: /images/site/favicon.png
+
+
+# Configure various features of this theme
+  features:
+    # [Deprecated] Enable dark theme
+    # This is a deprecated setting, but has not been removed to maintain backward compatibility
+    # If `theme` is set, the `darkMode` setting will be discarded.
+    # darkMode:
+    #   enable: true
+
+    # Configure theme color settings
+    theme:
+      enable: true
+      services:
+        light: true # enable light theme. default "true"
+        dark: true # enable dark theme. default "true"
+        default: system # can be either light, dark or system. default "system"
+
+    # Enable and configure portfolio
+    portfolio:
+      enable: true
+
+    # Enable and configure blog posts
+    blog:
+      enable: true
+      showAuthor: true # shows the author of post (defaults true)
+      # Share post on different social media
+      shareButtons:
+        # facebook: true
+        email: true
+        twitter: true
+        linkedin: true
+        # reddit: true
+        whatsapp: true
+        # tumblr: true
+        # pocket: true
+        # diaspora: true
+        # mastodon: true
+
+
+    # Enable comment feature. There, should be only one of them.
+    comment:
+      enable: false
+      services:
+        disqus:
+          shortName: toha-example-site
+        # valine:
+        #   appId: HTV6askWxVo3vOxlqjjaq2hd-MsYXbMMI
+        #   appKey: pVrT3C85KGIuk27t07eh6bUC
+        #   avatar: retro
+        #   placeholder: Share your thought.
+        #   lang: en
+        #   recordIP: true
+        #   enableQQ: true
+        # utteranc:
+        #   repo: github.com/hugo-toha/hugo-toha.github.io
+        #   issueTerm: title
+        #   theme: github-light
+        # giscus:
+        #   repo: your-repo/name
+        #   repoID: your-repo-id
+        #   category: your-category
+        #   categoryID: your-category-id
+          # theme: light
+          # map: url
+          # reaction: 1
+          # metadata: 0
+          # inputPosition: bottom
+          # crossOrigin: anonymous
+        # commento:
+        #   serverURL: cdn.commento.io
+        #   autoInit: true
+        #   hideDeleted: false
+
+    # Enable Analytics
+    analytics:
+      enabled: true
+      services:
+        # Google Analytics
+        google:
+          id: G-H4LBG7NDFZ
+        # # CounterDev
+        # counterDev:
+        #   id: <your counterdev id>
+        # # GoatCounter
+        # goatCounter:
+        #   code: <your goat counter code>
+        # # Matomo / Piwik
+        # matomo:
+        #   instance: matomo.example.com
+        #   siteId: 1 # Or any other number
