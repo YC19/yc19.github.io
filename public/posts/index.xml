@@ -6,15 +6,6 @@
     <description>Recent content in Posts on Yichen Tao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 May 2025 14:01:17 -0500</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" /><item>
-      <title>Test</title>
-      <link>http://localhost:1313/posts/test/</link>
-      <pubDate>Thu, 08 May 2025 14:01:17 -0500</pubDate>
-      
-      <guid>http://localhost:1313/posts/test/</guid>
-      <description></description>
-    </item>
-    
-    
+    <lastBuildDate>Thu, 08 May 2025 14:01:17 -0500</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
