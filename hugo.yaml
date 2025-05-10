@@ -31,7 +31,7 @@ params:
   background: /images/site/background.jpg
 
   logo:
-      favicon: /images/site/favicon.png
+      favicon: /images/site/favicon.jpg
 
 
 # Configure various features of this theme
@@ -123,3 +123,8 @@ params:
         # matomo:
         #   instance: matomo.example.com
         #   siteId: 1 # Or any other number
+
+    # Enable & configure "Notes" features
+    notes:
+      enable: false
+
