@@ -4,5 +4,5 @@ menu:
   sidebar:
     name: Blog
     identifier: blog
-    # weight: 20
+    weight: 20
 ---
