@@ -18,6 +18,6 @@ I may also write down my reflections of life/books/papers/research (possibly in 
 
 The comment tool may be activated later (not able to deploy successfully yet).
 
-But for sure, updates will not be regular (as an INFP, hahaha).
+But for sure, updates will not be regular (as an INFP, haha).
 
 ![Tree](/posts/blog/blog/tree.jpg)
