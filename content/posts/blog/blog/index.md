@@ -1,11 +1,11 @@
 ---
-title: "Blog"
+title: "Welcome"
 date: 2025-05-11
 draft: false
 # description: Welcome to my blog
 hero: tree.svg
 # mermaid: true
-weight: 40
+weight: 60
 
 
 ---
@@ -20,4 +20,4 @@ The comment tool may be activated later (not able to deploy successfully yet).
 
 But for sure, updates will not be regular (as an INFP, hahaha).
 
-![Tree](/posts/blog/tree.jpg)
+![Tree](/posts/blog/blog/tree.jpg)

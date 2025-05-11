@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 11 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
-      <title>Blog</title>
+      <title>Nonsense post</title>
+      <link>http://localhost:1313/posts/blog/blank_post/</link>
+      <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/blog/blank_post/</guid>
+      <description>&lt;p&gt;Just to fill the first three recent blog slots.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/blog/blank_post/school-1629452_1280.jpg&#34; alt=&#34;Stones&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Welcome</title>
       <link>http://localhost:1313/posts/blog/blog/</link>
       <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
       
@@ -16,17 +26,8 @@
 &lt;p&gt;I plan to record some useful tools/resources/quotes I find during daily study.&lt;/p&gt;
 &lt;p&gt;I may also write down my reflections of life/books/papers/research (possibly in both English and Chinese).&lt;/p&gt;
 &lt;p&gt;The comment tool may be activated later (not able to deploy successfully yet).&lt;/p&gt;
-&lt;p&gt;But for sure, updates will not be regular (as an INFP, hahaha).&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Nonsense post</title>
-      <link>http://localhost:1313/posts/blog/blank_post/</link>
-      <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/blog/blank_post/</guid>
-      <description>&lt;p&gt;Just to fill the first three recent blog slots.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/blog/blank_post/school-1629452_1280.jpg&#34; alt=&#34;Stones&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;But for sure, updates will not be regular (as an INFP, hahaha).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/blog/blog/tree.jpg&#34; alt=&#34;Tree&#34;&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
