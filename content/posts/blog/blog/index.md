@@ -3,7 +3,7 @@ title: "Blog"
 date: 2025-05-11
 draft: false
 # description: Welcome to my blog
-# hero: think.svg
+hero: tree.svg
 # mermaid: true
 weight: 40
 
@@ -19,3 +19,5 @@ I may also write down my reflections of life/books/papers/research (possibly in 
 The comment tool may be activated later (not able to deploy successfully yet).
 
 But for sure, updates will not be regular (as an INFP, hahaha).
+
+![Tree](/posts/blog/tree.jpg)
