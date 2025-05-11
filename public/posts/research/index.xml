@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 09 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/research/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>Spatiotemporal Characteristics of Heavy Precipitation Systems in the Upper Midwestern United States</title>
+      <link>http://localhost:1313/posts/research/stage4-research/</link>
+      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/research/stage4-research/</guid>
+      <description>&lt;p&gt;The emergence of multidecadal high-resolution gridded precipitation datasets provides opportunities to advance understanding and modeling of extreme storms, including for rainfall/flood frequency analysis and probable maximum precipitation/flood estimation. For example, the 4 km × 4 km hourly NCEP Stage IV precipitation analysis, based primarily on gage-corrected weather radar, provides accurate precipitation estimates east of the Rocky Mountains. In this study, we use Stage IV together with the storm tracking and regional characterization (STARCH) algorithm to study the characteristics of heavy precipitation events across all seasons in the upper Midwestern United States for the 20-year period from 2002 to 2021. We focus on characterizing storm duration, spatiotemporal distribution and autocorrelation, precipitation intermittency, anisotropy, and storm velocity. We hypothesize that this combination of long-term high resolution gridded precipitation data and storm tracking can support the development and parameterization of stochastic rainfall generators, as well as to evaluate climate model projections of changing precipitation patterns. Future work will include linking these storm tracks to large-scale atmospheric conditions.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Impacts of rainfall spatiotemporal variability on pressurized flow conditions in urban drainage systems</title>
       <link>http://localhost:1313/posts/research/sf-model/</link>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
@@ -22,15 +31,6 @@
       
       <guid>http://localhost:1313/posts/research/simplified-model/</guid>
       <description>&lt;p&gt;The operation of urban drainage has been challenged by aging stormwater collection networks (SCNs) and the impacts of climate change on the frequency and intensity of extreme rainfall. In extreme rainfall events, Adverse Multiphase Flow Interactions (AMFI) such as sewer geysering and displacement of manhole covers due to air entrapment effects have been observed in many cities. Current stormwater modeling and design practices do not adequately consider the processes leading up to AMFI. For example, commonly-used synthetic design storms fail to represent realistic rainfall variability, which has been shown to be a driver of pipeline pressurization, a prerequisite of AMFI occurrence. Other recent research has highlighted the importance of SCN topology on flow pressurization considering uniform rainfall intensities. However, the mitigation of AMFI conditions in large-scale networks necessitates the consideration of spatially and temporally variable rainfall, which is poorly understood. In this study, we designed eight idealized large-scale drainage networks with different SCN topologies, ranging from dendritic—i.e., with relatively few connections between system elements—to looped with many connections. High-resolution gridded radar rainfall datasets from several U.S. cities are used as inputs to network simulations using the Storm Water Management Model to obtain pressurization and air entrapment conditions. We hypothesize that analyzing the responses of different topological structures to rainfall spatiotemporal variability can help identify drainage network configurations that will be more reliable and robust in the face of increasingly extreme rainfall conditions.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Spatiotemporal Characteristics of Heavy Precipitation Systems in the Upper Midwestern United States</title>
-      <link>http://localhost:1313/posts/research/stage4-research/</link>
-      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/research/stage4-research/</guid>
-      <description>&lt;p&gt;The emergence of multidecadal high-resolution gridded precipitation datasets provides opportunities to advance understanding and modeling of extreme storms, including for rainfall/flood frequency analysis and probable maximum precipitation/flood estimation. For example, the 4 km × 4 km hourly NCEP Stage IV precipitation analysis, based primarily on gage-corrected weather radar, provides accurate precipitation estimates east of the Rocky Mountains. In this study, we use Stage IV together with the storm tracking and regional characterization (STARCH) algorithm to study the characteristics of heavy precipitation events across all seasons in the upper Midwestern United States for the 20-year period from 2002 to 2021. We focus on characterizing storm duration, spatiotemporal distribution and autocorrelation, precipitation intermittency, anisotropy, and storm velocity. We hypothesize that this combination of long-term high resolution gridded precipitation data and storm tracking can support the development and parameterization of stochastic rainfall generators, as well as to evaluate climate model projections of changing precipitation patterns. Future work will include linking these storm tracks to large-scale atmospheric conditions.&lt;/p&gt;</description>
     </item>
     
     

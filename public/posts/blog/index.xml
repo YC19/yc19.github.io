@@ -6,22 +6,36 @@
     <description>Recent content in Blog on Yichen Tao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/blog/index.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Sun, 11 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/blog/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>Blog</title>
+      <link>http://localhost:1313/posts/blog/blog/</link>
+      <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/blog/blog/</guid>
+      <description>&lt;h2 id=&#34;hi-welcome-to-my-blog&#34;&gt;Hi, welcome to my blog.&lt;/h2&gt;
+&lt;p&gt;I plan to record some useful tools/resources/quotes I find during daily study.&lt;/p&gt;
+&lt;p&gt;I may also write down my reflections of life/books/papers/research (possibly in both English and Chinese).&lt;/p&gt;
+&lt;p&gt;The comment tool may be activated later (not able to deploy successfully yet).&lt;/p&gt;
+&lt;p&gt;But for sure, updates will not be regular (as an INFP, hahaha).&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Nonsense post</title>
+      <link>http://localhost:1313/posts/blog/blank_post/</link>
+      <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/blog/blank_post/</guid>
+      <description>&lt;p&gt;Just to fill the first three recent blog slots.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/blog/blank_post/school-1629452_1280.jpg&#34; alt=&#34;Stones&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Recent favorite excerpt</title>
       <link>http://localhost:1313/posts/blog/excerpt/</link>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/blog/excerpt/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/blog/excerpt_laplace.jpg&#34; alt=&#34;Laplace&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Test</title>
-      <link>http://localhost:1313/posts/blog/test/</link>
-      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/blog/test/</guid>
-      <description>&lt;h1 id=&#34;test&#34;&gt;Test&lt;/h1&gt;</description>
     </item>
     
     

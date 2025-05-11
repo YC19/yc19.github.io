@@ -5,6 +5,7 @@ date: 2025-05-09
 draft: false
 hero: hero.svg
 mermaid: true
+weight: 10
 ---
 
 The emergence of multidecadal high-resolution gridded precipitation datasets provides opportunities to advance understanding and modeling of extreme storms, including for rainfall/flood frequency analysis and probable maximum precipitation/flood estimation. For example, the 4 km × 4 km hourly NCEP Stage IV precipitation analysis, based primarily on gage-corrected weather radar, provides accurate precipitation estimates east of the Rocky Mountains. In this study, we use Stage IV together with the storm tracking and regional characterization (STARCH) algorithm to study the characteristics of heavy precipitation events across all seasons in the upper Midwestern United States for the 20-year period from 2002 to 2021. We focus on characterizing storm duration, spatiotemporal distribution and autocorrelation, precipitation intermittency, anisotropy, and storm velocity. We hypothesize that this combination of long-term high resolution gridded precipitation data and storm tracking can support the development and parameterization of stochastic rainfall generators, as well as to evaluate climate model projections of changing precipitation patterns. Future work will include linking these storm tracks to large-scale atmospheric conditions.

@@ -13,7 +13,12 @@ params:
   footer:
     newsletter:
       enable: false
-
+    # Show/hide navigation in the footer. Default is "true".
+    navigation:
+      enable: true
+      # show custom menus in the footer
+      customMenus: true
+      
   profile:
     avatar: "images/Yichen_Tao.jpeg"
     name: "Yichen Tao"
