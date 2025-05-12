@@ -28,6 +28,10 @@ socialLinks:
   icon: "fas fa-envelope"
   url: "yichen.tao@wisc.edu"
 
+- name: ResearchGate
+  icon: "fab fa-researchgate"
+  url: "https://www.researchgate.net/profile/yichen_tao4"
+
 - name: Github
   icon: "fab fa-github"
   url: "https://www.github.com/yc19"
@@ -35,10 +39,6 @@ socialLinks:
 - name: LinkedIn
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/yichen-t-b248911b3/"
-
-- name: ResearchGate
-  icon: "fab fa-researchgate"
-  url: "https://www.researchgate.net/profile/yichen_tao4"
 
 # # You can put custom buttons to link your relevant resources.
 # # For example, you can put link for your resume.

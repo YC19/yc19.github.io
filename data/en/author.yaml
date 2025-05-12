@@ -8,13 +8,13 @@ image: "images/author/Yichen_Tao.jpeg"
 contactInfo:
   email: "yichen.tao@wisc.edu"
   # phone: "+0123456789"
+  researchgate: yichen_tao4
   github: yc19
   linkedin: yichen-t-b248911b3
-  researchgate: yichen_tao4
 
 # some summary about what you do
 summary:
-  - I am a student
+  - I am a PhD student
   - I work on hydrology
   - I love to work with fun projects
   - My MBTI is INFP
