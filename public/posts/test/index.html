@@ -201,6 +201,48 @@ document.documentElement.setAttribute('data-theme', theme)
                 </li>
               
             
+            
+              
+              
+                <li class="nav-item">
+                  <a class="nav-link" href="/#projects">Publications</a>
+                </li>
+              
+            
+            
+              
+              
+            
+          
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">More</a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                
+                
+                  
+                    
+                    
+                  
+                  
+                    
+                    
+                  
+                  
+                    
+                    
+                  
+                  
+                    
+                    
+                  
+                  
+                    
+                    
+                      <a class="dropdown-item" href="/#recent-posts">Recent Posts</a>
+                    
+                  
+              </div>
+            </li>
           
         
         
@@ -326,7 +368,87 @@ document.documentElement.setAttribute('data-theme', theme)
 
         
         <div class="post-content" id="post-content">
-          
+          <h1 id="example-links">Example Links</h1>
+<p>Here are different ways to add links in Hugo:</p>
+<ol>
+<li>
+<p>Basic link: <a href="https://www.google.com" target="_blank" rel="noopener">Visit Google</a></p>
+</li>
+<li>
+<p>Link with title: <a href="https://github.com" title="GitHub Homepage" target="_blank" rel="noopener">Visit GitHub</a></p>
+</li>
+<li>
+<p>Reference style link: <a href="https://stackoverflow.com" target="_blank" rel="noopener">Visit Stack Overflow</a></p>
+</li>
+</ol>
+<ol start="4">
+<li>
+<p>Internal link to another post: <a href="/research/">Link to Research</a></p>
+</li>
+<li>
+<p>Link with image: <a href="https://gohugo.io" target="_blank" rel="noopener"><img src="https://gohugo.io/images/hugo-logo.png" alt="Hugo Logo"></a></p>
+</li>
+</ol>
+<h1 id="text-formatting-examples">Text Formatting Examples</h1>
+<h2 id="bold-text">Bold Text</h2>
+<p>There are two ways to make text <strong>bold</strong> in markdown:</p>
+<ol>
+<li>Using double asterisks: <strong>This is bold text</strong></li>
+<li>Using double underscores: <strong>This is also bold text</strong></li>
+</ol>
+<h2 id="centered-text">Centered Text</h2>
+<p>To center text, we can use HTML&rsquo;s <code>&lt;div&gt;</code> tag with <code>text-center</code> class:</p>
+<!-- raw HTML omitted -->
+<h2 id="combining-bold-and-center">Combining Bold and Center</h2>
+<!-- raw HTML omitted -->
+<h2 id="regular-paragraph">Regular Paragraph</h2>
+<p>This is a regular paragraph that will be left-aligned. You can use <strong>bold text</strong> within it to emphasize certain words or phrases.</p>
+<h2 id="another-centered-section">Another Centered Section</h2>
+<!-- raw HTML omitted -->
+<h1 id="centering-multiple-paragraphs">Centering Multiple Paragraphs</h1>
+<h2 id="method-1-single-div-for-multiple-paragraphs">Method 1: Single div for multiple paragraphs</h2>
+<!-- raw HTML omitted -->
+<p>This is the second paragraph. It will also be centered.</p>
+<p>And this is the third paragraph. All paragraphs within the same div will be centered together.</p>
+<p>You can even add <strong>bold text</strong> or <em>italic text</em> within these centered paragraphs.</p>
+<!-- raw HTML omitted -->
+<h2 id="method-2-separate-divs-for-each-paragraph">Method 2: Separate divs for each paragraph</h2>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<h2 id="method-3-centered-section-with-multiple-elements">Method 3: Centered section with multiple elements</h2>
+<!-- raw HTML omitted -->
+<p>This is the first paragraph under the centered heading.</p>
+<p>This is the second paragraph.</p>
+<p><em>This is an italic paragraph.</em></p>
+<p><strong>This is a bold paragraph.</strong></p>
+<p>And this is the final paragraph in the centered section.</p>
+<!-- raw HTML omitted -->
+<h2 id="regular-non-centered-text">Regular (non-centered) text</h2>
+<p>This paragraph is not centered and will appear as normal text on the left side of the page.</p>
+<h1 id="centering-many-paragraphs">Centering Many Paragraphs</h1>
+<h2 id="method-1-using-front-matter">Method 1: Using Front Matter</h2>
+<p>This entire post will be centered because we added <code>class = &quot;text-center&quot;</code> in the front matter.
+No need to add any div tags!</p>
+<p>This is another paragraph that will be centered automatically.</p>
+<p>And another one. All paragraphs in this post will be centered.</p>
+<p>You can still use <strong>bold</strong> and <em>italic</em> text.</p>
+<h2 id="method-2-using-a-single-div-wrapper">Method 2: Using a Single Div Wrapper</h2>
+<!-- raw HTML omitted -->
+<p>This is the second paragraph.</p>
+<p>This is the third paragraph.</p>
+<p>And so on&hellip; All paragraphs between the opening and closing div tags will be centered.</p>
+<p>You can have as many paragraphs as you want here.</p>
+<p>They will all be centered automatically.</p>
+<p><strong>Bold text</strong> and <em>italic text</em> work normally.</p>
+<h3 id="even-headings-will-be-centered">Even headings will be centered</h3>
+<p>And the paragraphs below them too.</p>
+<p>More paragraphs&hellip;</p>
+<p>And more&hellip;</p>
+<!-- raw HTML omitted -->
+<h2 id="regular-non-centered-text-1">Regular (non-centered) text</h2>
+<p>This paragraph is outside the div, so it won&rsquo;t be centered.</p>
+
         </div>
 
         
@@ -507,6 +629,24 @@ document.documentElement.setAttribute('data-theme', theme)
                 
                 <li class="nav-item">
                   <a class="smooth-scroll" href="http://localhost:1313/#featured-posts">Research</a>
+                </li>
+              
+              
+                
+                
+                  
+                
+                <li class="nav-item">
+                  <a class="smooth-scroll" href="http://localhost:1313/#projects">Publications</a>
+                </li>
+              
+              
+                
+                
+                  
+                
+                <li class="nav-item">
+                  <a class="smooth-scroll" href="http://localhost:1313/#recent-posts">Recent Posts</a>
                 </li>
               
             

@@ -6,7 +6,16 @@
     <description>Recent content in Blog on Yichen Tao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/blog/index.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Thu, 12 Jun 2025 21:06:25 +0600</lastBuildDate><atom:link href="http://localhost:1313/posts/blog/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>My First Lyric Translation</title>
+      <link>http://localhost:1313/posts/blog/song_lyrics/</link>
+      <pubDate>Thu, 12 Jun 2025 21:06:25 +0600</pubDate>
+      
+      <guid>http://localhost:1313/posts/blog/song_lyrics/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Monster&amp;rdquo; was the first song I heard by Beth Crowley. I loved it immediately, but there was no Chinese translation available. This motivated me to translate it myself. Although the translation was more challenging than I expected, I completed my first song lyric translation in 2023 and published it on the &lt;a href=&#34;https://en.wikipedia.org/wiki/NetEase_Cloud_Music&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NetEase Cloud Music platform&lt;/a&gt;. All translations are based on my understanding of the song before October 2023. You&amp;rsquo;re welcome to discuss it with me if you like this song too!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Nonsense post</title>
       <link>http://localhost:1313/posts/blog/blank_post/</link>
       <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>

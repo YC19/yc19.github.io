@@ -2,10 +2,11 @@
 title: "Recent favorite excerpt"
 date: 2025-05-09
 draft: false
-hero: think.svg
+hero: think_resized.svg
 mermaid: true
-weight: 40
+weight: 50
 
 ---
+
 
 ![Laplace](/posts/blog/excerpt_laplace.jpg)

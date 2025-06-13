@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Yichen Tao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Thu, 12 Jun 2025 21:06:25 +0600</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>My First Lyric Translation</title>
+      <link>http://localhost:1313/posts/blog/song_lyrics/</link>
+      <pubDate>Thu, 12 Jun 2025 21:06:25 +0600</pubDate>
+      
+      <guid>http://localhost:1313/posts/blog/song_lyrics/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Monster&amp;rdquo; was the first song I heard by Beth Crowley. I loved it immediately, but there was no Chinese translation available. This motivated me to translate it myself. Although the translation was more challenging than I expected, I completed my first song lyric translation in 2023 and published it on the &lt;a href=&#34;https://en.wikipedia.org/wiki/NetEase_Cloud_Music&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NetEase Cloud Music platform&lt;/a&gt;. All translations are based on my understanding of the song before October 2023. You&amp;rsquo;re welcome to discuss it with me if you like this song too!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Nonsense post</title>
       <link>http://localhost:1313/posts/blog/blank_post/</link>
       <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
@@ -64,6 +73,44 @@
       
       <guid>http://localhost:1313/posts/blog/excerpt/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/blog/excerpt_laplace.jpg&#34; alt=&#34;Laplace&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>http://localhost:1313/posts/test/</link>
+      <pubDate>Thu, 08 May 2025 14:01:17 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/test/</guid>
+      <description>&lt;h1 id=&#34;example-links&#34;&gt;Example Links&lt;/h1&gt;
+&lt;p&gt;Here are different ways to add links in Hugo:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Basic link: &lt;a href=&#34;https://www.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visit Google&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Link with title: &lt;a href=&#34;https://github.com&#34; title=&#34;GitHub Homepage&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visit GitHub&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Reference style link: &lt;a href=&#34;https://stackoverflow.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visit Stack Overflow&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;Internal link to another post: &lt;a href=&#34;http://localhost:1313/research/&#34;&gt;Link to Research&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Link with image: &lt;a href=&#34;https://gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://gohugo.io/images/hugo-logo.png&#34; alt=&#34;Hugo Logo&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;text-formatting-examples&#34;&gt;Text Formatting Examples&lt;/h1&gt;
+&lt;h2 id=&#34;bold-text&#34;&gt;Bold Text&lt;/h2&gt;
+&lt;p&gt;There are two ways to make text &lt;strong&gt;bold&lt;/strong&gt; in markdown:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Using double asterisks: &lt;strong&gt;This is bold text&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Using double underscores: &lt;strong&gt;This is also bold text&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;centered-text&#34;&gt;Centered Text&lt;/h2&gt;
+&lt;p&gt;To center text, we can use HTML&amp;rsquo;s &lt;code&gt;&amp;lt;div&amp;gt;&lt;/code&gt; tag with &lt;code&gt;text-center&lt;/code&gt; class:&lt;/p&gt;</description>
     </item>
     
     
