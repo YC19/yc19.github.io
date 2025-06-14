@@ -10,7 +10,7 @@ weight: 70
 
 <!-- ## Song: Beth Crowley-Monster -->
 
-"Monster" was the first song I heard by Beth Crowley. I loved it immediately, but there was no Chinese translation available. This motivated me to translate it myself. Although the translation was more challenging than I expected, I completed my first song lyric translation in 2023 and published it on the [NetEase Cloud Music platform](https://en.wikipedia.org/wiki/NetEase_Cloud_Music). All translations are based on my understanding of the song before October 2023. You're welcome to discuss it with me if you like this song too!
+"Monster" was the first song I heard by Beth Crowley. I loved it immediately, but there was no Chinese translation available. This motivated me to translate it myself. Although the translation was more challenging than I expected, I completed my first song lyric translation in 2023 and published it on the [NetEase Cloud Music platform](https://en.wikipedia.org/wiki/NetEase_Cloud_Music). This translation is based on my understanding of the song before October 2023. You're welcome to discuss it with me if you like this song too!
 
 {{< img src="/posts/blog/song_lyrics/monster.jpg" float="right" >}}
 
